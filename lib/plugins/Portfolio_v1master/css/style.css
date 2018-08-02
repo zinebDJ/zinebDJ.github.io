@@ -1,0 +1,126 @@
+html, body{height: 100%;font-family: 'Roboto', sans-serif;}
+
+#topContent #dl{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 50%;
+    background-color: #313d5a;
+}
+#topContent{
+    background: url(../img/top_bkg.gif);
+    height: 100%;
+}
+#topContent header{
+    color: whitesmoke;
+    width: 50%;
+    position: absolute;
+    top:50%;
+    left: 35%;
+    font-family: 'Open Sans', sans-serif;
+}
+header h1{
+    font-size: 6.9em;
+}
+header p{
+    font-family: 'Roboto', sans-serif;
+    text-align: right;
+    width: 580px;
+}
+header img{
+    height: 20px;
+}
+/********************************************* Fin Section top ************************/
+main{
+    height: 100%;
+    background-color: whitesmoke;
+}
+h2{
+    font-size: 2.5em;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+main p{
+    
+    padding-left: 50px;
+}
+main img{
+    height: 300px;
+    width: 500px;
+}
+main #projet{
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+#projet .project{
+    display: inline-block;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+main .text{
+    height: inherit;
+    background-color: #fff;
+}
+section{
+    background-color: #222126;
+    color: whitesmoke;
+    padding-bottom: 60px;
+}
+#passion{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+section .passion{
+    width: 15%;
+    background-color: whitesmoke;
+    color: #222126;
+    text-align: center;
+    padding: 20px;
+}
+.passion h3{
+    font-size: 2.4em;
+    margin-bottom: 50px;
+}
+.passion img{
+    height: 100px;
+    margin-bottom: 50px;
+}
+footer{
+    color: whitesmoke;
+    height: 400px;
+    background: url(../img/top_bkg.gif)
+}
+footer p{
+    font-size: 0.8em;
+    margin-left: 50px;
+}
+
+footer form{
+    width: 20%;
+    margin: auto;
+    display: flex;
+    margin-top: 60px;
+}
+footer input{
+    display: block;
+    margin-top: 20px;
+    margin-right: 30px;
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid #222126;
+}
+
+footer #submit{
+    display: block;
+    margin-left: 50px;
+    margin-top: 80px;
+}

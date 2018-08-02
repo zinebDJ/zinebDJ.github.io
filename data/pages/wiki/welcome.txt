@@ -1,0 +1,63 @@
+<jumbotron>
+<grid>
+<col xs="6" md="3">
+{{:fabricademy2017:students:julie.taris:julie-taris-fabricademy.jpg?300x300|}}
+</col>
+
+<col xs="2" md="8">
+<caption>
+>"What I like most about the creative process is the moment when we gather a lot of ideas which sparks off other perspectives. Like when you cut images out of a magazine and put them together differently"
+</caption>
+
+<caption>
+ // **Fabricademy2017** -** [[tarisjulie@gmail.com|Julie Taris]]** -** Fablab Digiscope Node** // 
+</caption>
+<caption>
+[[https://www.instagram.com/liligray/|Instagram ]] - [[https://tarisjulie.wordpress.com/portfolio/identite-marque-bonnie-co/|portfolio ]] - [[https://www.linkedin.com/in/julietaris/|linkedin ]] 
+</caption>
+</col>
+</grid>
+
+</jumbotron>
+
+ * <text type="muted">muted</text>
+  * <text type="primary">primary</text>
+  * <text type="success">success</text>
+  * <text type="info">info</text>
+  * <text type="warning">warning</text>
+  * <text type="danger">danger</text>
+
+====== Bienvenu dans votre nouveau FabLab ======
+
+Avec nous, vous allez découvrir le monde du numérique, un monde en tension que, malheureusement, il n'était pas présent dans notre quartier. . .
+
+Tout est changer maintenant ! Les jeunes, les enfants ou même les personnes les plus âgées vont trouver quoi faire en dehors de l'école ou après les heures de travail !
+
+On va mettre en place aussi une action de remobilisation des jeunes, de 16 à 25 ans, qui ont quitté l'école sans diplôme, pour qu'ils puissent découvrir les opportunités, formations et métiers au alentours du numérique, on leurs propose de poursuivre leurs parcours dans l'un des chantiers d'insertions du PoleS.
+
+Ensemble nous allons apprendre à utiliser les machine numérique : imprimante 3D, fraiseuse, découpeuse laser, plotter, machine à coudre . . . et vous allez fabriquer vos objets vous-même !
+
+===== Create your first pages =====
+
+Your wiki needs to have a start page. As long as it doesn't exist, this link will be red: [[:start|]].
+
+Go on, follow that link and create the page. If you need help with using the syntax you can always refer to the [[:wiki:syntax|syntax page]].
+
+You might also want to use a sidebar. To create it, just edit the [[:sidebar|]] page. Everything in that page will be shown in a margin column on the side. Read our [[doku>faq:sidebar|FAQ on sidebars]] to learn more.
+
+Please be aware that not all templates support sidebars.
+
+===== Customize your Wiki =====
+
+Once you're comfortable with creating and editing pages you might want to have a look at the [[this>doku.php?do=admin&page=config|configuration settings]] (be sure to login as superuser first).
+
+You may also want to see what [[doku>plugins]] and [[doku>templates]] are available at DokuWiki.org to extend the functionality and looks of your DokuWiki installation.
+
+===== Join the Community =====
+
+DokuWiki is an Open Source project that thrives through user contributions. A good way to stay informed on what's going on and to get useful tips in using DokuWiki is subscribing to the [[doku>newsletter]].
+
+The [[http://forum.dokuwiki.org|DokuWiki User Forum]] is an excellent way to get in contact with other DokuWiki users and is just one of the many ways to get [[doku>faq:support|support]].
+
+Of course we'd be more than happy to have you [[doku>teams:getting_involved|getting involved]] with DokuWiki.
+

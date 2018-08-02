@@ -1,0 +1,49 @@
+<WRAP center round download 60%>
+bloc téléchargement
+</WRAP>
+
+
+----
+
+----
+
+====== Bienvenu dans votre nouveau FabLab ======
+
+----
+
+Avec nous, vous allez découvrir le monde du numérique, un monde en tension que, malheureusement, il n'était pas présent dans notre quartier. . .
+
+Tout est changer maintenant ! Les jeunes, les enfants ou même les personnes les plus âgées vont trouver quoi faire en dehors de l'école ou après les heures de travail !
+
+On va mettre en place aussi une action de remobilisation des jeunes, de 16 à 25 ans, qui ont quitté l'école sans diplôme, pour qu'ils puissent découvrir les opportunités, formations et métiers au alentours du numérique, on leurs propose de poursuivre leurs parcours dans l'un des chantiers d'insertions du PoleS.
+
+Ensemble nous allons apprendre à utiliser les machine numérique : imprimante 3D, fraiseuse, découpeuse laser, plotter, machine à coudre . . . et vous allez fabriquer vos objets vous-même !
+
+<jumbotron>
+===== Hello, world! =====
+
+This is a simple hero unit, a simple jumbotron-style
+component for calling extra attention to featured
+content or information.
+</jumbotron>
+
+<text type="muted">muted</text>
+<text type="primary">primary</text>
+<text type="success">success</text>
+<text type="info">info</text>
+<text type="warning">warning</text>
+<text type="danger">danger</text>
+
+
+^ ^Lundi^Mardi^Mercredi^Jeudi^Vendredi|
+^Matin| | | | | |
+^Après midi| | | | | |
+
+<code>
+[[:dokuwiki:page|{{icon>icon-name&flags|title}}]]
+</code>
+
+''inc/lang/en/registermail.txt'' to ''conf/lang/en/registeredmail.txt''
+<WRAP center round tip 60%>
+bloc astuce
+</WRAP>
